@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="enter_password">Masukkan password…</string>
+    <string name="error_password">Mnimal password 8 karakter</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Selamat datang di aplikasi cerita, kami membagikan semua cerita lucu Anda di sini!</string>
+    <string name="title_welcome_page">Selamat datang di story app!</string>
+    <string name="title_signup_page">Lengkapi formulir di bawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Silahkan isi datamu dulu</string>
+    <string name="title_login_page">Apa kamu sudah sap bercerita?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2023 StoryApp</string>
+    <string name="logout">Keluar</string>
+    <string name="enter_email">Masukkan email..</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="already_register">Sudah punya akun</string>
+    <string name="lipsum">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of</string>
+    <string name="story_title">Story Title</string>
+    <string name="story_thumbnail_image">Story thumbnail image</string>
+    <string name="title_activity_story_detail">StoryDetailActivity</string>
+
+    <string name="deskripsi_cerita">Deskripsi cerita</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="choose_thumbnail">Pilih thumbnail untuk cerita :</string>
+    <string name="insert_story">Masukkan cerita…</string>
+    <string name="upload">Upload</string>
+    <string name="add_strory_desc">Tambahkan deskripsi cerita</string>
+    <string name="upload_success">Upload berhasil</string>
+    <string name="story_detail">DETAIL CERITA</string>
+    <string name="story_by">Cerita oleh :</string>
+    <string name="story_desc">Detail cerita :</string>
+    <string name="not_format_email">Email tidak sesuai format</string>
+    <string name="insert_name">Masukkan nama</string>
+    <string name="insert_email">Masukkan email</string>
+    <string name="change_language">Ganti bahasa</string>
+</resources>

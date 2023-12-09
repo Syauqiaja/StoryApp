@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="enter_password">Enter password…</string>
+    <string name="error_password">Password minimum 8 characters</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Welcome to story app, we share all of your funny stories here!</string>
+    <string name="title_welcome_page">Welcome to story app!</string>
+    <string name="title_signup_page">Complete your personal data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Are you ready to read the stories?</string>
+    <string name="name">Name</string>
+    <string name="copyright">© 2023 StoryApp</string>
+    <string name="logout">Logout</string>
+    <string name="enter_email">Insert your email..</string>
+    <string name="create_account">Create account</string>
+    <string name="already_register">Already have account</string>
+    <string name="lipsum">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of</string>
+    <string name="story_title">Story Title</string>
+    <string name="story_thumbnail_image">Story thumbnail image</string>
+    <string name="title_activity_story_detail">StoryDetailActivity</string>
+
+    <string name="deskripsi_cerita">Story description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="choose_thumbnail">Choose thumbnail for story :</string>
+    <string name="insert_story">Insert story…</string>
+    <string name="upload">Upload</string>
+    <string name="add_strory_desc">Insert story detail</string>
+    <string name="upload_success">Upload success</string>
+    <string name="story_detail">STORY DETAIL</string>
+    <string name="story_by">Story by :</string>
+    <string name="story_desc">Story detail :</string>
+    <string name="not_format_email">Email not match fomat</string>
+    <string name="insert_name">Insert name</string>
+    <string name="insert_email">Insert mail</string>
+    <string name="change_language">Change language</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="maps_view">Maps View</string>
+    <string name="list_view">List View</string>
+    <string name="retry">Coba lagi</string>
+</resources>

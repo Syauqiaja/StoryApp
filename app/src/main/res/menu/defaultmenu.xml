@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/logout"
+        android:id="@+id/action_logout"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_logout_white"/>
+    <item android:title="@string/change_language"
+        android:id="@+id/change_language"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_language_white"/>
+    <item android:title="@string/maps_view"
+        android:id="@+id/maps_view"
+        app:showAsAction="never"/>
+    <item android:title="@string/list_view"
+        android:id="@+id/list_view"
+        app:showAsAction="never"/>
+</menu>
