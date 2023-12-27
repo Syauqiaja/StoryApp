@@ -19,7 +19,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.StoryApp"
+        android:theme="@style/Theme.StoryApp.NoActionBar"
         tools:targetApi="31">
         <meta-data
             android:name="com.google.android.geo.API_KEY"

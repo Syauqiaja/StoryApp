@@ -1,11 +1,13 @@
 package com.example.storyapp.ui.auth.login
 
 import android.content.Intent
+import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.activity.viewModels
+import androidx.core.content.ContextCompat
 import com.example.storyapp.databinding.ActivityLoginBinding
 import com.example.storyapp.model.UserPreferences
 import com.example.storyapp.ui.auth.register.RegisterActivity
